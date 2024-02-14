@@ -5,7 +5,7 @@ Eu sou a Jeniffer, uma alma em transição de carreira. Por anos, fui a :crown: 
 Então prepare-se para uma montanha-russa de 
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" width="53px"> 
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" width="46px"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="85px">!
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="85px">
 <br>
 <br>
 
