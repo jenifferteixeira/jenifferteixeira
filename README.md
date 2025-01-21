@@ -4,14 +4,7 @@ Eu sou a Jeniffer, uma aventureira em busca de novos horizontes, mergulhando de 
 Em 2016, descobri talento em suporte e resolução de problemas. Anteriormente, era especialista em sistemas e ensinava colegas. Atualmente, sou mestre em sistemas e especialista em encontrar funções perdidas.
 Experiência desde meus 16 anos, e nessa bagagem trago muitas habilidades que são altamente transferíveis para a área da programação. Tais como: agilidade, trabalho em equipe, organização, proatividade, gestão de tempo e empatia. 
 
-Para entrar em contato comigo, estou à disposição nos contatos 
 
-Então prepare-se para uma montanha-russa de 
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" width="53px"> 
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" width="46px"> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="85px">
-<br>
-<br>
 
 Para me encontrar nas redes sociais :wink:
 
@@ -23,7 +16,7 @@ Para me encontrar nas redes sociais :wink:
 </a>
 <br>
 <br>
-Também estou à disposição nos contatos (51) 998968959 ou jeniteixeia@outlook.com.br.
+Também estou à disposição no email jeniteixeia@outlook.com.br.
 <br>
 <br>
 <br>
